@@ -1,5 +1,5 @@
-<div>
-  <img src="https://ibb.co/Bc0c4ZQ" />
+<div classname="header" align="center" width="100">
+  <img src="https://ibb.co/Bc0c4ZQ" >
 </div>
 
 
